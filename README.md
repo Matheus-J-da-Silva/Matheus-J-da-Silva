@@ -12,7 +12,20 @@ Tenho experiência em:
 - **Frontend**
 
 ## 🛠️ Tecnologias e Ferramentas
-!Python
-![C#](https://img.shieldshields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotneto=html5&logo=for-the-badgedge&logo=git&logoColor=white)
-!GitHub
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=-stats.vercel.app/api/top-langs/?username/
+<div style="display: inline_block"><br>  
+  <img align="center" alt="matheus-Python" height="45"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Matheus-Flask"  height="45"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg"  />
+  <img align="center" alt="Matheus-Postgre" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="Matheus-MySQL" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Matheus-SqlAlchemy" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" /> 
+  <img align="center" alt="Matheus-Docker" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> 
+  <img align="center" alt="Matheus-Pandas" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+  <img align="center" alt="Matheus-Numpy" height="45" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
+  <img align="center" alt="Matheus-Jupter" height="45" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+  <img align="center" alt="Matheus-GIT" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Matheus-Linux" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+</div><br>
+  
+<div>
+ <img align="right" height="150" width="180" src="https://github.com/matheusjunqueiradasilva/MatheusJunqueiradaSilva/blob/master/2LbF.gif">
+</div>
