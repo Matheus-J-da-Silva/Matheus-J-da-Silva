@@ -1,5 +1,5 @@
 
-# 👋 Olá, eu sou Matheus Junqueira da Silva
+# 👋 Olá, eu sou Matheus Junqueira
 
 ## 🚀 Sobre mim
 Sou **pesquisador e desenvolvedor** com mais de **3 anos de experiência em desenvolvimento de software**.  
